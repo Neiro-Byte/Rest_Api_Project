@@ -1,0 +1,149 @@
+/Users/charmme/Project Rest API/bin/Debug/net8.0/appsettings.Development.json
+/Users/charmme/Project Rest API/bin/Debug/net8.0/appsettings.json
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Project Rest API
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Project Rest API.deps.json
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Project Rest API.runtimeconfig.json
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Project Rest API.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Project Rest API.pdb
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/charmme/Project Rest API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.csproj.AssemblyReference.cache
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.AssemblyInfoInputs.cache
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.AssemblyInfo.cs
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.csproj.CoreCompileInputs.cache
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.MvcApplicationPartsAssemblyInfo.cs
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.MvcApplicationPartsAssemblyInfo.cache
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets/msbuild.Project Rest API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets/msbuild.build.Project Rest API.props
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project Rest API.props
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project Rest API.props
+/Users/charmme/Project Rest API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/charmme/Project Rest API/obj/Debug/net8.0/scopedcss/bundle/Project Rest API.styles.css
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project .80411239.Up2Date
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.dll
+/Users/charmme/Project Rest API/obj/Debug/net8.0/refint/Project Rest API.dll
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.pdb
+/Users/charmme/Project Rest API/obj/Debug/net8.0/Project Rest API.genruntimeconfig.cache
+/Users/charmme/Project Rest API/obj/Debug/net8.0/ref/Project Rest API.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/appsettings.json
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Project Rest API
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Project Rest API.deps.json
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Project Rest API.runtimeconfig.json
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Project Rest API.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Project Rest API.pdb
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.csproj.AssemblyReference.cache
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.AssemblyInfoInputs.cache
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.AssemblyInfo.cs
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.csproj.CoreCompileInputs.cache
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.MvcApplicationPartsAssemblyInfo.cs
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.MvcApplicationPartsAssemblyInfo.cache
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets/msbuild.Project Rest API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.Project Rest API.props
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Project Rest API.props
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Project Rest API.props
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/scopedcss/bundle/Project Rest API.styles.css
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project .80411239.Up2Date
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.dll
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/refint/Project Rest API.dll
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.pdb
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/Project Rest API.genruntimeconfig.cache
+/Users/charmme/ProjectRestAPI/obj/Debug/net8.0/ref/Project Rest API.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/charmme/ProjectRestAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
