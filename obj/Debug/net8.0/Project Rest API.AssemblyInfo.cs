@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project Rest API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb14927b9ad0f4256718c6403b5f1bbc4d0fe35e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c789ee8dce73d198babadd9eede9024d0116c134")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project Rest API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project Rest API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
