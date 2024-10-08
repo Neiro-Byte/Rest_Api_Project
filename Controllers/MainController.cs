@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Project_Rest_API
 {
-[Route("api/[controller]")]
-[ApiController]
-public class UserController : ControllerBase
-{
+    [Route("api/[controller]")]
+    [ApiController]
+  public class UserController : ControllerBase
+  {
     private readonly UserDbContext _context;
 
     public UserController(UserDbContext context)
@@ -41,6 +41,5 @@ public class UserController : ControllerBase
 
         return Ok(users);
     }
-}
-
+  }
 }
